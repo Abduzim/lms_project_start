@@ -1,0 +1,4 @@
+[11/16/2026, 4:54:29 PM]_POST_/api/v1/teachers_error: duplicate key value violates unique constraint "users_phone_key"
+[11/16/2026, 4:54:29 PM]_POST_/api/v1/admins_value too long for type character varying(13)
+[11/16/2026, 4:55:56 PM]_POST_/api/v1/teachers_error: duplicate key value violates unique constraint "users_phone_key"
+[11/16/2026, 4:55:56 PM]_DELETE_/api/v1/users/5_error: update or delete on table "users" violates foreign key constraint "mentor_profile_user_id_fkey" on table "mentor_profile"
